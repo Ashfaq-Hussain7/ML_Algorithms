@@ -112,10 +112,10 @@ Each folder contains:
 
 ## ✍️ Author
 
-- 📧 Your Name  
+- 📧 ASHFAQ HUSSAIN M S
 - 🎓 Course: Machine Learning Lab  
-- 🏫 Institution Name  
-- 📅 Semester & Year  
+- 🏫 CUSAT  
+- 📅 Semester 6 
 
 ---
 
